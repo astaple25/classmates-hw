@@ -77,7 +77,7 @@
         "friends":	["Jacob", "Alex", "Caleb", "Tyler"],
         "birthplace":	"Pulaski, VA",
         "favorite book":	"1984",
-        "favorite videogame":	"Red Dead Redemption 2",
+        "favorite game":	"Red Dead Redemption 2",
         "favorite color":	"Red",
         "favorite NFL team":	"Commanders",
         "favorite number":	44,
@@ -119,4 +119,5 @@
         "favorite color": 			"Lavender",
         "favorite makeup brand":		"Fenty Beauty"
     }
+
 ]
