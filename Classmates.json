@@ -73,7 +73,7 @@
         "gender":	"M",
         "birth":	"January 2005",
         "home city": 	"Dublin",
-        "classes":	["cs440", "cs443", "cs252", "cs475", "cs452"],
+        "classes":	["CS 440", "CS 443", "CS 252", "CS 475", "CS 452"],
         "friends":	["Jacob", "Alex", "Caleb", "Tyler"],
         "birthplace":	"Pulaski, VA",
         "favorite book":	"1984",
@@ -90,13 +90,13 @@
         "gender":		"M",
         "birth":		"March 2005",
         "home city":	"Pulaski",	
-        "classes":		["cs645", "cs540", "cs543", "cs471"],
+        "classes":		["CS 645", "CS 540", "CS 543", "CS 471"],
         "friends":		["Hudson Brown", "Ashton Paul", "Carson Worelly", "Alex Whitaker"],
         "dorm":		"Home",
         "birth place":	"Pulaski, VA",
         "favorite restaurant": 	"The Farmhouse",
         "how long":	"Too Long",
-        "jobs":		"Walmart",
+        "job":		"Walmart",
         "car color":	"Blue",
         "certifications":	["Powerpoint", "Cloud"],
         "rained on":	true,
@@ -107,7 +107,7 @@
         "gender":		"F",
         "birth":			"October 2005",
         "home city":		"Falls Church",
-        "classes":		["cs440", "cs443", "cs445"],
+        "classes":		["CS 440", "CS 443", "CS 445"],
         "friends": 	["Devyn Mason", "Leila Ledoux", "Trischelle Joseph"],
         "dorm": 		["Muse", "Madison", "Madison"],
         "birth place": 	"Abuja, Nigeria",
@@ -119,5 +119,4 @@
         "favorite color": 			"Lavender",
         "favorite makeup brand":		"Fenty Beauty"
     }
-
 ]
